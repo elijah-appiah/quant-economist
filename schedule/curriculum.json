@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "title": "The Quant Economist's Path",
+    "total_weeks": 96,
+    "tracks": ["A", "B", "C", "D", "E"],
+    "track_names": {
+      "A": "Econometrics",
+      "B": "Quantitative Finance",
+      "C": "DSGE Models",
+      "D": "Machine Learning",
+      "E": "Deep Learning"
+    }
+  },
+  "weeks": [
+    {
+      "n": 1,
+      "quarter": "Q1",
+      "year": 1,
+      "status": "in_progress",
+      "A": {
+        "book": "Heiss (R & Python)",
+        "topic": "Simple regression: OLS mechanics, fitted values, residuals",
+        "task": "lm() in R / statsmodels.OLS in Python on a wage dataset",
+        "status": "in_progress"
+      },
+      "B": {
+        "book": "Tsay",
+        "topic": "Asset returns: simple vs. log returns, stylized facts",
+        "task": "Compute and plot daily log returns in R (quantmod)",
+        "status": "not_started"
+      },
+      "C": {
+        "book": "RBC primer",
+        "topic": "The representative-agent endowment economy",
+        "task": "Solve a 2-period endowment economy by hand, verify in R",
+        "status": "not_started"
+      },
+      "D": {
+        "book": "ISLR/ISLP ch.1-2",
+        "topic": "What is statistical learning? Prediction vs. inference, bias-variance",
+        "task": "K-NN vs. linear fit comparison, R and Python side by side",
+        "status": "not_started"
+      },
+      "E": {
+        "book": "Chollet ch.1",
+        "topic": "What is deep learning? History of ML paradigms",
+        "task": "Install Keras/TensorFlow in R and Python; run first tensor operations",
+        "status": "not_started"
+      }
+    }
+  ]
+}
