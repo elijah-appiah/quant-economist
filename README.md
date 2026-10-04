@@ -28,13 +28,13 @@
 <br/>
 
 > [!NOTE]
-> This repository is my public, working record of a self-directed two-year program spanning **five quantitative disciplines**, executed weekly in both **R and Python**. Every notebook, script, and note here is real work product from that schedule — not a tutorial clone. Follow along, fork it, or use the structure for your own path.
+> This repository is my public, working record of a self-directed two-year program spanning **five quantitative disciplines**, executed weekly in both **R and Python**. Every notebook, script, and note here is real work product from that schedule — not a tutorial clone. Follow along, fork it, or use the structure for your own path. While the idea and curriculum comes from me, I also acknowledge the use of Claude AI in shaping the structure of the timeline needed to complete the entire curriculum.
 
 ---
 
 ## 🎯 Why This Exists
 
-Most "learn quant finance" or "learn econometrics" resources teach one discipline in isolation. In practice — in a PhD program, in a research role, on a trading desk — these fields constantly borrow from each other: causal inference leans on machine learning, DSGE models are estimated with the same Kalman filter used in time-series econometrics, and deep learning increasingly shows up in macro forecasting and derivatives pricing.
+Most "learn quant finance" or "learn econometrics" resources teach one discipline in isolation. In practice — in a PhD program, in a research role, on a trading desk — these fields constantly borrow from each other: causal inference leans on machine learning, DSGE models are estimated with the same Kalman filter used in time series econometrics, and deep learning increasingly shows up in macro forecasting and derivatives pricing.
 
 **The Quant Economist's Path** treats all five as one connected discipline, studied in parallel, one topic per track per week, for 96 weeks — building toward a final capstone that integrates all five.
 
